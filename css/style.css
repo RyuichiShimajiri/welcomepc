@@ -263,6 +263,7 @@ footer {
 .btn:first-child {
   margin-top: 0;
 }
+/*welcomeここまで*/
   /* curriculum */
    .img-box{
     flex-flow:column nowrap;
@@ -273,9 +274,20 @@ footer {
     flex-direction: column;
     align-items:center;
     margin-right: 0;
+    margin-top: 30px;
   }
 
+  .img-box li:fiest-child{
+    margin-top: 0;
+  }
+
+  .img-box li span{
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  /*curriculumここまで*/
   /* contact */
+
 
   /* footer */
 
